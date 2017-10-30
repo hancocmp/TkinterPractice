@@ -25,7 +25,7 @@ def main():
     frame1.grid()
 
     # ------------------------------------------------------------------
-    # TODO: 4. After reading and understanding the m2e module,
+    # Done: 4. After reading and understanding the m2e module,
     #   ** put a Button on the Frame. **
     # ------------------------------------------------------------------
     button = ttk.Button(frame1, text='Say Hello')
